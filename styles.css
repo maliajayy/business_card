@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Garamond;
+}
+.avatar {
+    width: 150px;
+    border-radius: 15px;
+    
+}
+.card {
+    width: 400px;
+    margin: O5 auto;
+    padding: 30px;
+    display: flex;
+    flex-flow: row-reverse;
+    justify-content:space-between;
+    text-align: center;
+    text-shadow: 2px 2px #820263;
+    background-image:url("background_flower.jpeg");
+    
+    color:#eadeda;
+        
+}
+.border-blue {
+    border: 1px solid;
+    border-radius: 10px;
+    border-bottom: 3px #820263;
+    border-style:outset
+}
+.name {
+    font-style: oblique;
+    font-stretch: expanded;
+}  
